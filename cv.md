@@ -45,3 +45,8 @@ function getDivisorsCnt(n) {
 | Year      | College                                                       | Degree         |
 | --------- | ------------------------------------------------------------- | -------------- |
 | 2016-2020 | Reshetnev Siberian State University of Science and Technology | Bachelor of IT |
+
+## 🇬🇧 Languages
+
+-   **Russian** (Native)
+-   **English** (Pre-Intermediate)
