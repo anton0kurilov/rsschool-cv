@@ -5,3 +5,13 @@
 | 🙍‍♂️ About me                                                                                                                                                 |                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | Passionate junior frontend developer with a desire to learn and grow in a collaborative team environment. I have basic skills in HTML, CSS, and JavaScript. | ![profile photo](https://kurilov.site/photo.fd955ad2.jpeg) |
+
+## 👨‍💻 Tech skills
+
+I have basic experience in these technologies:
+
+-   HTML5
+-   CSS (SASS)
+-   JavaScript (data types, operators, loops, functions, conditionals)
+-   Git (Github / Gitlab)
+-   Parcel, Gulp
