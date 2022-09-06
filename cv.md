@@ -15,3 +15,19 @@ I have basic experience in these technologies:
 -   JavaScript (data types, operators, loops, functions, conditionals)
 -   Git (Github / Gitlab)
 -   Parcel, Gulp
+
+## 💾 Code examples
+
+This is a function that counting the number of divisors of a positive integer.
+
+```
+function getDivisorsCnt(n) {
+    let resultCount = 0;
+    for (let i = n; i > 0; i--) {
+      if (n % i == 0) {
+        resultCount++;
+      }
+    }
+  return resultCount;
+}
+```
