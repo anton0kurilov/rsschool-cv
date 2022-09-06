@@ -31,3 +31,11 @@ function getDivisorsCnt(n) {
   return resultCount;
 }
 ```
+
+## 💼 Work experience
+
+| Year           | Position / Task                                             | Link                                                       |
+| -------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
+| 2022           | Webpage layout for Beeinterns (HTML, SASS, Parcel, Git)     | [Github](https://github.com/anton0kurilov/beeinterns-test) |
+| 2022           | Webpage layout for LaslesVPN (HTML, SASS, Parcel, Git, NPM) | [Github](https://github.com/anton0kurilov/laslesvpn-test)  |
+| 2018 - present | Editor in the news media Rozetked                           | [Profile](https://rozetked.me/user/1224)                   |
